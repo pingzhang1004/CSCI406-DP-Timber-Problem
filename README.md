@@ -1,6 +1,7 @@
 # CSCI406-DP-Timber-Problem
 ###### * Using Python programming language 
 ###### * The course project code is not allowed to be published online，but I am happy to share the ideas of implementation and running results of my algorithm!
+###### * I can provide the source code for the interview!
 
 ### Implement a dynamic programming algorithm to compute the maximum sum of lengths of wood that can be achieved by strategically picking each turn.
 
